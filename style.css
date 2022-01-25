@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Redacted+Script:wght@300&family=Roboto+Mono:ital,wght@0,300;1,200;1,700&display=swap");
+
+html {
+  font-family: "Roboto Mono", monospace;
+}
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  width: 10%;
+  border-color: gray;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+}
+h1,
+h3 {
+  color: #66bfbf;
+}
+h1:hover,
+h3:hover {
+  background-color: #ffefef;
+}
